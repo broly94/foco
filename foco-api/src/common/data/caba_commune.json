@@ -1,0 +1,177 @@
+{
+    "communes": [
+        {
+            "municipality_id": "022007",
+            "name": "Comuna 1",
+            "full_name": "Comuna 1",
+            "category": "Comuna",
+            "communes": [
+                "Retiro",
+                "San Nicolás",
+                "Puerto Madero",
+                "San Telmo",
+                "Montserrat",
+                "Constitución"
+            ]
+        },
+        {
+            "municipality_id": "022014",
+            "name": "Comuna 2",
+            "full_name": "Comuna 2",
+            "category": "Comuna",
+            "communes": [
+                "Recoleta"
+            ]
+        },
+        {
+            "municipality_id": "022021",
+            "name": "Comuna 3",
+            "full_name": "Comuna 3",
+            "category": "Comuna",
+            "communes": [
+                "Balvanera",
+                "San Cristóbal"
+            ]
+        },
+        {
+            "municipality_id": "022028",
+            "name": "Comuna 4",
+            "full_name": "Comuna 4",
+            "category": "Comuna",
+            "communes": [
+                "La Boca",
+                "Barracas",
+                "Parque Patricios",
+                "Nueva Pompeya"
+            ]
+        },
+        {
+            "municipality_id": "022035",
+            "name": "Comuna 5",
+            "full_name": "Comuna 5",
+            "category": "Comuna",
+            "communes": [
+                "Almagro",
+                "Boedo"
+            ]
+        },
+        {
+            "municipality_id": "022042",
+            "name": "Comuna 6",
+            "full_name": "Comuna 6",
+            "category": "Comuna",
+            "communes": [
+                "Caballito"
+            ]
+        },
+        {
+            "municipality_id": "022049",
+            "name": "Comuna 7",
+            "full_name": "Comuna 7",
+            "category": "Comuna",
+            "communes": [
+                "Flores",
+                "Parque Chacabuco"
+            ]
+        },
+        {
+            "municipality_id": "022056",
+            "name": "Comuna 8",
+            "full_name": "Comuna 8",
+            "category": "Comuna",
+            "communes": [
+                "Villa Soldati",
+                "Villa Riachuelo",
+                "Villa Lugano"
+            ]
+        },
+        {
+            "municipality_id": "022063",
+            "name": "Comuna 9",
+            "full_name": "Comuna 9",
+            "category": "Comuna",
+            "communes": [
+                "Liniers",
+                "Mataderos",
+                "Parque Avellaneda"
+            ]
+        },
+        {
+            "municipality_id": "022070",
+            "name": "Comuna 10",
+            "full_name": "Comuna 10",
+            "category": "Comuna",
+            "communes": [
+                "Villa Real",
+                "Monte Castro",
+                "Versalles",
+                "Floresta",
+                "Vélez Sársfield",
+                "Villa Luro"
+            ]
+        },
+        {
+            "municipality_id": "022077",
+            "name": "Comuna 11",
+            "full_name": "Comuna 11",
+            "category": "Comuna",
+            "communes": [
+                "Villa General Mitre",
+                "Villa Devoto",
+                "Villa del Parque",
+                "Villa Santa Rita"
+            ]
+        },
+        {
+            "municipality_id": "022084",
+            "name": "Comuna 12",
+            "full_name": "Comuna 12",
+            "category": "Comuna",
+            "communes": [
+                "Coghlan",
+                "Saavedra",
+                "Villa Urquiza",
+                "Villa Pueyrredón"
+            ]
+        },
+        {
+            "municipality_id": "022091",
+            "name": "Comuna 13",
+            "full_name": "Comuna 13",
+            "category": "Comuna",
+            "communes": [
+                "Núñez",
+                "Belgrano",
+                "Colegiales"
+            ]
+        },
+        {
+            "municipality_id": "022098",
+            "name": "Comuna 14",
+            "full_name": "Comuna 14",
+            "category": "Comuna",
+            "communes": [
+                "Palermo"
+            ]
+        },
+        {
+            "municipality_id": "022105",
+            "name": "Comuna 15",
+            "full_name": "Comuna 15",
+            "category": "Comuna",
+            "communes": [
+                "Chacarita",
+                "Villa Crespo",
+                "La Paternal",
+                "Villa Ortúzar",
+                "Agronomía",
+                "Parque Chas"
+            ]
+        }
+    ],
+    "provincie": {
+        "province_id": "02",
+        "name": "Ciudad Autónoma de Buenos Aires",
+        "category": "Ciudad Autónoma"
+    }
+}

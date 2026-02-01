@@ -1,0 +1,28 @@
+# Dependencias locales
+node_modules
+.pnpm
+.pnpm-store
+
+# Builds y compilados
+dist
+*.log
+
+# Config y envs
+*.env
+!.env.example
+
+# Git
+.git
+.gitignore
+
+# Documentos y diagramas
+*.drawio
+*.md
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Otros innecesarios
+coverage
+tmp

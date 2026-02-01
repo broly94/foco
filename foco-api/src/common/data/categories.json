@@ -1,0 +1,732 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2024-01-15",
+    "categories": [
+        {
+            "category_id": 1,
+            "name": "Comercios",
+            "subcategories01": [
+                {
+                    "sub_category_01_id": 101,
+                    "name": "Alimentos y Bebidas",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 10101,
+                            "name": "Almacenes y Despensas"
+                        },
+                        {
+                            "sub_category_02_id": 10102,
+                            "name": "Verdulerías"
+                        },
+                        {
+                            "sub_category_02_id": 10103,
+                            "name": "Carnicerías"
+                        },
+                        {
+                            "sub_category_02_id": 10104,
+                            "name": "Fiambrerías y Queserías"
+                        },
+                        {
+                            "sub_category_02_id": 10105,
+                            "name": "Dietéticas"
+                        },
+                        {
+                            "sub_category_02_id": 10106,
+                            "name": "Vinotecas y Licorerías"
+                        },
+                        {
+                            "sub_category_02_id": 10107,
+                            "name": "Panaderías y Pastelerías"
+                        },
+                        {
+                            "sub_category_02_id": 10108,
+                            "name": "Golosinas y Chocolaterías"
+                        },
+                        {
+                            "sub_category_02_id": 10109,
+                            "name": "Productos Regionales"
+                        },
+                        {
+                            "sub_category_02_id": 10110,
+                            "name": "Productos Orgánicos"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 102,
+                    "name": "Indumentaria y Calzado",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 10201,
+                            "name": "Ropa Masculina"
+                        },
+                        {
+                            "sub_category_02_id": 10202,
+                            "name": "Ropa Femenina"
+                        },
+                        {
+                            "sub_category_02_id": 10203,
+                            "name": "Ropa Infantil"
+                        },
+                        {
+                            "sub_category_02_id": 10204,
+                            "name": "Ropa Deportiva"
+                        },
+                        {
+                            "sub_category_02_id": 10205,
+                            "name": "Ropa Interior y Lencería"
+                        },
+                        {
+                            "sub_category_02_id": 10206,
+                            "name": "Calzado Adultos"
+                        },
+                        {
+                            "sub_category_02_id": 10207,
+                            "name": "Calzado Infantil"
+                        },
+                        {
+                            "sub_category_02_id": 10208,
+                            "name": "Accesorios"
+                        },
+                        {
+                            "sub_category_02_id": 10209,
+                            "name": "Uniformes y Ropa Laboral"
+                        },
+                        {
+                            "sub_category_02_id": 10210,
+                            "name": "Moda Sustentable"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": 2,
+            "name": "Servicios",
+            "subcategories01": [
+                {
+                    "sub_category_01_id": 201,
+                    "name": "Hogar y Construcción",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 20101,
+                            "name": "Plomería"
+                        },
+                        {
+                            "sub_category_02_id": 20102,
+                            "name": "Electricidad"
+                        },
+                        {
+                            "sub_category_02_id": 20103,
+                            "name": "Gasista Matriculado"
+                        },
+                        {
+                            "sub_category_02_id": 20104,
+                            "name": "Albañilería y Construcción"
+                        },
+                        {
+                            "sub_category_02_id": 20105,
+                            "name": "Pintura"
+                        },
+                        {
+                            "sub_category_02_id": 20106,
+                            "name": "Cerrajería"
+                        },
+                        {
+                            "sub_category_02_id": 20107,
+                            "name": "Refrigeración y Aire Acondicionado"
+                        },
+                        {
+                            "sub_category_02_id": 20108,
+                            "name": "Jardinería y Paisajismo"
+                        },
+                        {
+                            "sub_category_02_id": 20109,
+                            "name": "Limpieza de Hogares"
+                        },
+                        {
+                            "sub_category_02_id": 20110,
+                            "name": "Mudanzas y Fletes"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 202,
+                    "name": "Tecnología y Informática",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 20201,
+                            "name": "Reparación de PC"
+                        },
+                        {
+                            "sub_category_02_id": 20202,
+                            "name": "Reparación de Celulares"
+                        },
+                        {
+                            "sub_category_02_id": 20203,
+                            "name": "Instalación de Redes"
+                        },
+                        {
+                            "sub_category_02_id": 20204,
+                            "name": "Desarrollo de Software"
+                        },
+                        {
+                            "sub_category_02_id": 20205,
+                            "name": "Diseño Web"
+                        },
+                        {
+                            "sub_category_02_id": 20206,
+                            "name": "Marketing Digital"
+                        },
+                        {
+                            "sub_category_02_id": 20207,
+                            "name": "Soporte Técnico"
+                        },
+                        {
+                            "sub_category_02_id": 20208,
+                            "name": "Video Vigilancia"
+                        },
+                        {
+                            "sub_category_02_id": 20209,
+                            "name": "Impresión 3D"
+                        },
+                        {
+                            "sub_category_02_id": 20210,
+                            "name": "Ciberseguridad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": 3,
+            "name": "Salud",
+            "subcategories01": [
+                {
+                    "sub_category_01_id": 301,
+                    "name": "Medicina",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 30101,
+                            "name": "Clínica Médica"
+                        },
+                        {
+                            "sub_category_02_id": 30102,
+                            "name": "Pediatría"
+                        },
+                        {
+                            "sub_category_02_id": 30103,
+                            "name": "Cardiología"
+                        },
+                        {
+                            "sub_category_02_id": 30104,
+                            "name": "Traumatología"
+                        },
+                        {
+                            "sub_category_02_id": 30105,
+                            "name": "Ginecología"
+                        },
+                        {
+                            "sub_category_02_id": 30106,
+                            "name": "Dermatología"
+                        },
+                        {
+                            "sub_category_02_id": 30107,
+                            "name": "Oftalmología"
+                        },
+                        {
+                            "sub_category_02_id": 30108,
+                            "name": "Odontología"
+                        },
+                        {
+                            "sub_category_02_id": 30109,
+                            "name": "Psicología"
+                        },
+                        {
+                            "sub_category_02_id": 30110,
+                            "name": "Nutrición"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 302,
+                    "name": "Estética y Bienestar",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 30201,
+                            "name": "Peluquería"
+                        },
+                        {
+                            "sub_category_02_id": 30202,
+                            "name": "Barbería"
+                        },
+                        {
+                            "sub_category_02_id": 30203,
+                            "name": "Depilación"
+                        },
+                        {
+                            "sub_category_02_id": 30204,
+                            "name": "Uñas"
+                        },
+                        {
+                            "sub_category_02_id": 30205,
+                            "name": "Pestañas"
+                        },
+                        {
+                            "sub_category_02_id": 30206,
+                            "name": "Cosmetología"
+                        },
+                        {
+                            "sub_category_02_id": 30207,
+                            "name": "Masajes y Spa"
+                        },
+                        {
+                            "sub_category_02_id": 30208,
+                            "name": "Tratamientos Faciales"
+                        },
+                        {
+                            "sub_category_02_id": 30209,
+                            "name": "Electroestética"
+                        },
+                        {
+                            "sub_category_02_id": 30210,
+                            "name": "Acupuntura"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": 4,
+            "name": "PYMES",
+            "subcategories01": [
+                {
+                    "sub_category_01_id": 401,
+                    "name": "Industria y Manufactura",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 40101,
+                            "name": "Textil y Confección"
+                        },
+                        {
+                            "sub_category_02_id": 40102,
+                            "name": "Muebles y Carpintería"
+                        },
+                        {
+                            "sub_category_02_id": 40103,
+                            "name": "Metalúrgica"
+                        },
+                        {
+                            "sub_category_02_id": 40104,
+                            "name": "Plásticos"
+                        },
+                        {
+                            "sub_category_02_id": 40105,
+                            "name": "Impresión y Gráfica"
+                        },
+                        {
+                            "sub_category_02_id": 40106,
+                            "name": "Química"
+                        },
+                        {
+                            "sub_category_02_id": 40107,
+                            "name": "Packaging"
+                        },
+                        {
+                            "sub_category_02_id": 40108,
+                            "name": "Maquinaria"
+                        },
+                        {
+                            "sub_category_02_id": 40109,
+                            "name": "Calzado"
+                        },
+                        {
+                            "sub_category_02_id": 40110,
+                            "name": "Joyería y Relojería"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 402,
+                    "name": "Alimentos y Bebidas",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 40201,
+                            "name": "Elaboración de Alimentos"
+                        },
+                        {
+                            "sub_category_02_id": 40202,
+                            "name": "Bebidas y Gaseosas"
+                        },
+                        {
+                            "sub_category_02_id": 40203,
+                            "name": "Productos Regionales"
+                        },
+                        {
+                            "sub_category_02_id": 40204,
+                            "name": "Snacks y Golosinas"
+                        },
+                        {
+                            "sub_category_02_id": 40205,
+                            "name": "Productos Congelados"
+                        },
+                        {
+                            "sub_category_02_id": 40206,
+                            "name": "Conservas"
+                        },
+                        {
+                            "sub_category_02_id": 40207,
+                            "name": "Productos para Celíacos"
+                        },
+                        {
+                            "sub_category_02_id": 40208,
+                            "name": "Orgánicos y Naturales"
+                        },
+                        {
+                            "sub_category_02_id": 40209,
+                            "name": "Productos Lácteos"
+                        },
+                        {
+                            "sub_category_02_id": 40210,
+                            "name": "Panificación Industrial"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 403,
+                    "name": "Servicios Profesionales",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 40301,
+                            "name": "Consultoría"
+                        },
+                        {
+                            "sub_category_02_id": 40302,
+                            "name": "Contabilidad"
+                        },
+                        {
+                            "sub_category_02_id": 40303,
+                            "name": "Abogacía"
+                        },
+                        {
+                            "sub_category_02_id": 40304,
+                            "name": "Arquitectura"
+                        },
+                        {
+                            "sub_category_02_id": 40305,
+                            "name": "Ingeniería"
+                        },
+                        {
+                            "sub_category_02_id": 40306,
+                            "name": "Diseño"
+                        },
+                        {
+                            "sub_category_02_id": 40307,
+                            "name": "Traducciones"
+                        },
+                        {
+                            "sub_category_02_id": 40308,
+                            "name": "Investigación de Mercado"
+                        },
+                        {
+                            "sub_category_02_id": 40309,
+                            "name": "Organización de Eventos"
+                        },
+                        {
+                            "sub_category_02_id": 40310,
+                            "name": "Capacitación Empresarial"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": 5,
+            "name": "EMPRESAS",
+            "subcategories01": [
+                {
+                    "sub_category_01_id": 501,
+                    "name": "Corporativos",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 50101,
+                            "name": "Grandes Empresas"
+                        },
+                        {
+                            "sub_category_02_id": 50102,
+                            "name": "Multinacionales"
+                        },
+                        {
+                            "sub_category_02_id": 50103,
+                            "name": "Holdings"
+                        },
+                        {
+                            "sub_category_02_id": 50104,
+                            "name": "Consultoras Estratégicas"
+                        },
+                        {
+                            "sub_category_02_id": 50105,
+                            "name": "Franquicias"
+                        },
+                        {
+                            "sub_category_02_id": 50106,
+                            "name": "Inversiones"
+                        },
+                        {
+                            "sub_category_02_id": 50107,
+                            "name": "Desarrollo Corporativo"
+                        },
+                        {
+                            "sub_category_02_id": 50108,
+                            "name": "Fusiones y Adquisiciones"
+                        },
+                        {
+                            "sub_category_02_id": 50109,
+                            "name": "Relaciones Institucionaless"
+                        },
+                        {
+                            "sub_category_02_id": 50110,
+                            "name": "Responsabilidad Social"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 502,
+                    "name": "Servicios Empresariales",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 50201,
+                            "name": "Outsourcing"
+                        },
+                        {
+                            "sub_category_02_id": 50202,
+                            "name": "Tercerización"
+                        },
+                        {
+                            "sub_category_02_id": 50203,
+                            "name": "Call Centers"
+                        },
+                        {
+                            "sub_category_02_id": 50204,
+                            "name": "Logística Integral"
+                        },
+                        {
+                            "sub_category_02_id": 50205,
+                            "name": "Distribución"
+                        },
+                        {
+                            "sub_category_02_id": 50206,
+                            "name": "Almacenamiento"
+                        },
+                        {
+                            "sub_category_02_id": 50207,
+                            "name": "Seguridad Privada"
+                        },
+                        {
+                            "sub_category_02_id": 50208,
+                            "name": "Limpieza Industrial"
+                        },
+                        {
+                            "sub_category_02_id": 50209,
+                            "name": "Mantenimiento Edilicio"
+                        },
+                        {
+                            "sub_category_02_id": 50210,
+                            "name": "Gestión de Residuos"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 503,
+                    "name": "Tecnología e Innovación",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 50301,
+                            "name": "Software Empresarial"
+                        },
+                        {
+                            "sub_category_02_id": 50302,
+                            "name": "Data Centers"
+                        },
+                        {
+                            "sub_category_02_id": 50303,
+                            "name": "Cloud Computing"
+                        },
+                        {
+                            "sub_category_02_id": 50304,
+                            "name": "Inteligencia Artificial"
+                        },
+                        {
+                            "sub_category_02_id": 50305,
+                            "name": "Big Data"
+                        },
+                        {
+                            "sub_category_02_id": 50306,
+                            "name": "Ciberseguridad"
+                        },
+                        {
+                            "sub_category_02_id": 50307,
+                            "name": "IoT (Internet de las Cosas)"
+                        },
+                        {
+                            "sub_category_02_id": 50308,
+                            "name": "Blockchain"
+                        },
+                        {
+                            "sub_category_02_id": 50309,
+                            "name": "Realidad Virtual"
+                        },
+                        {
+                            "sub_category_02_id": 50310,
+                            "name": "Automatización"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category_id": 6,
+            "name": "DEPORTES",
+            "subcategories01": [
+                {
+                    "sub_category_01_id": 601,
+                    "name": "Actividad Física",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 60101,
+                            "name": "Gimnasios"
+                        },
+                        {
+                            "sub_category_02_id": 60102,
+                            "name": "Crossfit"
+                        },
+                        {
+                            "sub_category_02_id": 60103,
+                            "name": "Yoga y Pilates"
+                        },
+                        {
+                            "sub_category_02_id": 60104,
+                            "name": "Natación"
+                        },
+                        {
+                            "sub_category_02_id": 60105,
+                            "name": "Artes Marciales"
+                        },
+                        {
+                            "sub_category_02_id": 60106,
+                            "name": "Danza y Baile"
+                        },
+                        {
+                            "sub_category_02_id": 60107,
+                            "name": "Entrenamiento Personal"
+                        },
+                        {
+                            "sub_category_02_id": 60108,
+                            "name": "Spinning"
+                        },
+                        {
+                            "sub_category_02_id": 60109,
+                            "name": "Functional Training"
+                        },
+                        {
+                            "sub_category_02_id": 60110,
+                            "name": "Preparación Física"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 602,
+                    "name": "Deportes",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 60201,
+                            "name": "Fútbol"
+                        },
+                        {
+                            "sub_category_02_id": 60202,
+                            "name": "Tenis"
+                        },
+                        {
+                            "sub_category_02_id": 60203,
+                            "name": "Pádel"
+                        },
+                        {
+                            "sub_category_02_id": 60204,
+                            "name": "Básquet"
+                        },
+                        {
+                            "sub_category_02_id": 60205,
+                            "name": "Vóley"
+                        },
+                        {
+                            "sub_category_02_id": 60206,
+                            "name": "Hockey"
+                        },
+                        {
+                            "sub_category_02_id": 60207,
+                            "name": "Rugby"
+                        },
+                        {
+                            "sub_category_02_id": 60208,
+                            "name": "Golf"
+                        },
+                        {
+                            "sub_category_02_id": 60209,
+                            "name": "Atletismo"
+                        },
+                        {
+                            "sub_category_02_id": 60210,
+                            "name": "Deportes Acuáticos"
+                        }
+                    ]
+                },
+                {
+                    "sub_category_01_id": 603,
+                    "name": "Aventura y Outdoor",
+                    "subcategories02": [
+                        {
+                            "sub_category_02_id": 60301,
+                            "name": "Trekking y Senderismo"
+                        },
+                        {
+                            "sub_category_02_id": 60302,
+                            "name": "Montañismo"
+                        },
+                        {
+                            "sub_category_02_id": 60303,
+                            "name": "Camping"
+                        },
+                        {
+                            "sub_category_02_id": 60304,
+                            "name": "Pesca"
+                        },
+                        {
+                            "sub_category_02_id": 60305,
+                            "name": "Caza"
+                        },
+                        {
+                            "sub_category_02_id": 60306,
+                            "name": "Turismo Aventura"
+                        },
+                        {
+                            "sub_category_02_id": 60307,
+                            "name": "Ciclismo"
+                        },
+                        {
+                            "sub_category_02_id": 60308,
+                            "name": "Escalada"
+                        },
+                        {
+                            "sub_category_02_id": 60309,
+                            "name": "Kayak y Canotaje"
+                        },
+                        {
+                            "sub_category_02_id": 60310,
+                            "name": "Parapente y Ala Delta"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
